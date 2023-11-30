@@ -1,6 +1,7 @@
 # Tel-Customer-Churn
 
-![alt text](https://github.com/[Mbachia]/[Tel-Customer-Churn]/blob/[main]/image.jpg?raw=true)
+![Company Logo](https://github.com/Mbachia/Tel-Customer-Churn/raw/main/Company%20Logo/download.png)
+
 
 SyriaTel Customer Churn Analysis
 
