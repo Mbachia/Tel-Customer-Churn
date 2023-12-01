@@ -1,6 +1,6 @@
 # Tel-Customer-Churn
 
-![Company Logo](https://github.com/Mbachia/Tel-Customer-Churn/raw/main/Company%20Logo/download.png)
+![Company Logo](https://github.com/Mbachia/Tel-Customer-Churn/raw/main/Company%20Logo/156935176603023900.jpg)
 
 ## SyriaTel Customer Churn Analysis
 
@@ -58,6 +58,42 @@ After tuning the model with these parameters, it achieved an accuracy of approxi
 ## XGBoost Classifier
 The accuracy of the model is 91.24%. This indicates the overall correctness of predictions made by the model. It correctly predicted approximately 91 out of every 100 instances, showcasing a higher accuracy compared to previous models.
 
+## Conclusions
+**Model Performance:** 
 
+The XGBoost model demonstrated the highest accuracy among the models evaluated, achieving an accuracy of approximately 91%.
+Random Forest and Logistic Regression also performed reasonably well, achieving accuracies of around 89% and 87% respectively.
 
+**Prediction of Churn:**
+
+The models showcase potential in predicting customer churn, providing insights into identifying customers at risk of churning.
+They help in understanding the influential factors affecting churn, aiding in proactive strategies to retain customers.
+
+**Key Predictors of Churn:**
+
+Features such as 'customer service calls,' 'international plan,' and 'total day minutes' appear to be significant factors influencing customer churn based on the model coefficients.
+
+**Investigate international plan churn rate**
+
+The substantial churn rate among international plan holders signals the need for focused efforts in implementing personalized retention strategies to retain these customers effectively.
+
+## Recommendations
+
+**Targeted Retention Strategies:**
+
+Utilize insights from the models to implement targeted retention strategies for customers identified as high-risk churners.
+Offer personalized incentives or services to retain customers with characteristics that indicate a higher likelihood of churning.
+
+**Improved Customer Service:**
+
+Focus on improving customer service quality as the number of customer service calls is a significant predictor of churn.
+Address issues or concerns promptly to enhance customer satisfaction and loyalty.
+
+**Continuous Monitoring and Model Refinement:**
+
+Continuously monitor model performance and update it with new data to ensure its reliability and accuracy.
+
+**Explore strategies for international plans:**
+
+With over 42% of international plan holders churning, it's crucial to explore tailored retention strategies for this segment to improve customer retention rates.
 
